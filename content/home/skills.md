@@ -29,10 +29,6 @@ feature:
   icon: desktop
   icon_pack: fas
   name: Solidworks CAD
-- description: ''
-  icon: screwdriver-wrench
-  icon_pack: fas
-  name: Machining and Prototyping
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
