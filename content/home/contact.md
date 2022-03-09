@@ -1,6 +1,5 @@
 ---
 # An instance of the Contact widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
 
 # This file represents a page section.
@@ -18,13 +17,35 @@ content:
   
   # Email form provider
   form:
-    provider: formspree
+    provider: netlify
     formspree:
-      id: test
+      id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
-  
+
+  # Contact details (edit or remove options as required)
+  email:
+  phone: 
+  address:
+    street: 1-007, 77 Massachusetts Ave
+    city: Cambridge
+    region: MA
+    postcode: '02139'
+    country: United States
+    country_code: US
+  coordinates:
+    latitude: 
+    longitude: 
+  directions: 
+  office_hours:
+  appointment_url:
+  contact_links:
+    - icon: linkedin
+      icon_pack: fab
+      name: DM Me
+      link: 'https://www.linkedin.com/in/cormac-o-neill/'
+
 design:
   columns: '2'
 ---
