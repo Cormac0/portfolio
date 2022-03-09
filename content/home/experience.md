@@ -22,6 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Assistant
+    company: d'Arbeloff Lab, MIT
+    company_url: 'https://darbelofflab.mit.edu/'
+    company_logo: ''
+    location: Massachusetts
+    date_start: '2019-09-01'
+    date_end: ''
+    description: |2-
+        * Researching novel methods to automate the use of cranes in heavy industries.
+        * Leveraging contact with the environment to perform dexterous tasks with cranes.
+        * Mentor younger students as a teaching assistant for MIT's Intro to Robotics course.
+
   - title: Technology Intern
     company: Schlumberger
     company_url: 'https://www.slb.com/'
