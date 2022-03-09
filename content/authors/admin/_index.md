@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD in Robotics
     institution: Massachusetts Institute of Technology
-    year: 2022
+    year: 2022-
   - course: MS in Mechanical Engineering
     institution: Massachusetts Institute of Technology
     year: 2021
@@ -68,4 +68,4 @@ highlight_name: true
 
 I'm a graduate student working towards my PhD at the d'Arbeloff Lab in MIT. My research is focused on the design and development of autonomous cranes. I am interested in how underactuated systems, such as cranes, can leverage contact with their environment to perform complex and dexterous manipulation tasks. Outside of my immediate research, I have been involved with student-run teams designing technology for lunar exploration as a part of NASA's BIG Idea Challenge.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
