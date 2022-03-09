@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Safe Tumbling of Heavy Objects Using a Two-Cable Crane"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
