@@ -25,26 +25,32 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email:
-  phone: 
+  email: test@example.org
+  phone: 888 888 88 88
   address:
-    street: 1-007, 77 Massachusetts Ave
-    city: Cambridge
-    region: MA
-    postcode: '02139'
+    street: 450 Serra Mall
+    city: Stanford
+    region: CA
+    postcode: '94305'
     country: United States
     country_code: US
   coordinates:
-    latitude: 
-    longitude: 
-  directions: 
+    latitude: '37.4275'
+    longitude: '-122.1697'
+  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
-  appointment_url:
+    - 'Monday 10:00 to 13:00'
+    - 'Wednesday 09:00 to 10:00'
+  appointment_url: 'https://calendly.com'
   contact_links:
-    - icon: linkedin
+    - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://www.linkedin.com/in/cormac-o-neill/'
+      link: 'https://twitter.com/Twitter'
+    - icon: video
+      icon_pack: fas
+      name: Zoom Me
+      link: 'https://zoom.com'
 
 design:
   columns: '2'
