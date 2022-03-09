@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Technology Intern
     company: Schlumberger
-    company_url: ''
+    company_url: 'https://www.slb.com/'
     company_logo: org-slb
     location: Texas
     date_start: '2018-06-01'
@@ -33,7 +33,7 @@ experience:
         
   - title: Automation Engineering Intern
     company: Mattel
-    company_url: ''
+    company_url: 'https://corporate.mattel.com/en-us'
     company_logo: org-mat
     location: California
     date_start: '2017-06-01'
@@ -42,8 +42,8 @@ experience:
 
   - title: Mechanical Engineering Intern
     company: LIGO
-    company_url: ''
-    company_logo: ''
+    company_url: 'https://www.ligo.caltech.edu/'
+    company_logo: org-ligo
     location: California
     date_start: '2016-10-01'
     date_end: '2018-02-09'
