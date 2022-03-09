@@ -29,7 +29,7 @@ experience:
     location: Texas
     date_start: '2018-06-01'
     date_end: '2018-09-09'
-    description:
+    description: ''
         
   - title: Automation Engineering Intern
     company: Mattel
@@ -38,7 +38,7 @@ experience:
     location: California
     date_start: '2017-06-01'
     date_end: '2017-09-09'
-    description:
+    description: ''
 
   - title: Mechanical Engineering Intern
     company: LIGO
@@ -47,7 +47,7 @@ experience:
     location: California
     date_start: '2016-10-01'
     date_end: '2018-02-09'
-    description:
+    description: ''
 
   - title: Summer Intern
     company: Space Structures Laboratory, Caltech
@@ -56,7 +56,7 @@ experience:
     location: California
     date_start: '2016-06-01'
     date_end: '2016-09-09'
-    description:
+    description: ''
 
 design:
   columns: '2'
