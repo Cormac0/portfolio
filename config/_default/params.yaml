@@ -95,9 +95,9 @@ features:
     api_key: ''
     zoom: 15
 
-icon:
-  pack:
-    ai: false
+#icon:
+#  pack:
+#    ai: true
 
 # Extensions
 
