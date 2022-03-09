@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD in Robotics
     institution: Massachusetts Institute of Technology
-    year: 2022
+    year: 2022-Present
   - course: MS in Mechanical Engineering
     institution: Massachusetts Institute of Technology
     year: 2021
