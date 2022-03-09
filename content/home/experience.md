@@ -53,7 +53,7 @@ experience:
     date_start: '2016-10-01'
     date_end: '2018-02-09'
     description: |2-
-      My team were responsible for reducing vibrations that could impact LIGO's ability to detect gravitational waves. As part of this role, I:
+      My team were responsible for reducing vibrations that could impact LIGO's ability to detect gravitational waves.
       * Tested non-magnetic mass dampers for the detector's test mass support structure.
       * Investigated different epoxy resins for use in the detector.
 
@@ -64,8 +64,7 @@ experience:
     location: California
     date_start: '2016-06-01'
     date_end: '2016-09-09'
-    description: |2-
-      My team were responsible for reducing vibrations that could impact LIGO's ability to detect gravitational waves. As part of this role, I:
+    description: |2-:
       * Aided with research and preparation for the AAReST mission (Autonomous Assembly of a Reconfigurable Space Telescope).
       * Calibrated and characterized deformable mirrors for AAReST.
       * Characterized composite springs, aiding with their design for the SSPI (Space Solar Power Initiative).
