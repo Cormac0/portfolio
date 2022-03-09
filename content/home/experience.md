@@ -64,7 +64,7 @@ experience:
     location: California
     date_start: '2016-06-01'
     date_end: '2016-09-09'
-    description: |2-:
+    description: |2-
       * Aided with research and preparation for the AAReST mission (Autonomous Assembly of a Reconfigurable Space Telescope).
       * Calibrated and characterized deformable mirrors for AAReST.
       * Characterized composite springs, aiding with their design for the SSPI (Space Solar Power Initiative).
