@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: croneill@mit.edu
+  email:
   phone: 
   address:
     street: 1-007, 77 Massachusetts Ave
