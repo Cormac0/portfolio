@@ -63,6 +63,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a passionate engineer and researcher working towards my PhD at MIT's d'Arbeloff lab. My research is focused on the development of autonomous cranes for heavy manufacturing industries. I am interested in how underactuated systems, such as cranes, can leverage contact with their environment to perform complex and dexterous manipulation tasks. I am also excited about applying robotics and automation to challenges beyond our planet, and I have been involved in a number of NASA challenges through MIT, including both the BIG Idea and RASC-AL academic competitions.
+I am an engineer and researcher working towards my PhD at MIT's d'Arbeloff lab. My research is focused on the development of autonomous cranes for heavy manufacturing industries. I am interested in how underactuated systems, such as cranes, can leverage contact with their environment to perform complex and dexterous manipulation tasks. I am also excited about applying robotics and automation to challenges beyond our planet, and I have been involved in a number of NASA challenges through MIT, including both the BIG Idea and RASC-AL academic competitions.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
