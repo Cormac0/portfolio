@@ -6,7 +6,7 @@ title: Cormac O'Neill
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Doctoral Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -63,6 +63,6 @@ email: ""
 highlight_name: true
 ---
 
-I'm a graduate student working towards my PhD at the d'Arbeloff Lab in MIT. My research is focused on the design and development of autonomous cranes. I am interested in how underactuated systems, such as cranes, can leverage contact with their environment to perform complex and dexterous manipulation tasks. Outside of my immediate research, I have been involved with student-run teams designing technology for lunar exploration as a part of NASA's BIG Idea Challenge.
+I am a passionate engineer and researcher working towards my PhD at MIT's d'Arbeloff lab. My research is focused on the development of autonomous cranes for heavy manufacturing industries. I am interested in how underactuated systems, such as cranes, can leverage contact with their environment to perform complex and dexterous manipulation tasks. I am also excited about applying robotics and automation to challenges beyond our planet, and I have been involved in a number of NASA challenges through MIT, including both the BIG Idea and RASC-AL academic competitions.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
