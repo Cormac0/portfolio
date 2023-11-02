@@ -1,4 +1,6 @@
 ---
+# Activate this widget? true/false
+active: false
 # An instance of the Contact widget.
 widget: contact
 
